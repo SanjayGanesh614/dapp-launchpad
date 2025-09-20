@@ -1,6 +1,6 @@
 # dApp Launchpad
 
-## Table of Contents
+## Table of Contents 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
